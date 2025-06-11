@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.RepeatString", "07.Repea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.MathPower", "08.MathPower\08.MathPower.csproj", "{E5029BD9-8F95-4E63-A2B3-AA5F24C8D43A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.GreaterОfTwoValues", "09.GreaterОfTwoValues\09.GreaterОfTwoValues.csproj", "{157B3F4B-AFF4-417F-8519-A289985EBD7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{E5029BD9-8F95-4E63-A2B3-AA5F24C8D43A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5029BD9-8F95-4E63-A2B3-AA5F24C8D43A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5029BD9-8F95-4E63-A2B3-AA5F24C8D43A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{157B3F4B-AFF4-417F-8519-A289985EBD7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157B3F4B-AFF4-417F-8519-A289985EBD7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157B3F4B-AFF4-417F-8519-A289985EBD7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157B3F4B-AFF4-417F-8519-A289985EBD7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
